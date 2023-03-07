@@ -4,3 +4,13 @@ adxl_results/vibrations/*.tar.gz
 *.bkp
 autocommit.sh
 .moonraker.conf.bkp
+LICENSE
+#Archives
+*.gz
+*.tar
+*.zip
+#Backup files
+.*.swp
+*.bk
+*.bak
+*~
