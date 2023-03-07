@@ -1,2 +1,2 @@
 # VoronTridentBlue
-Backup of my Configs and Notes
+Backup of my Config files and notes on my Voron Trident called Blue.
