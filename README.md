@@ -7,15 +7,11 @@ Accent Color: #dPrintLive Blue
 
 ## Kit
 
-Formbot VORON Trident CoreXY 3D Printer Kit
+* [Formbot VORON Trident CoreXY 3D Printer Kit](https://www.formbot3d.com/products/voron-trident-corexy-3d-printer-kit-with-premade-wiring-harness)
   Dragon Standard Flow Hotend Upgrade
-Stealthburner Extruder Upgrade Kit for Voron 2.4 or Trident
+* [Stealthburner Extruder Upgrade Kit for Voron 2.4 or Trident](https://www.formbot3d.com/products/-176)
   I know its standard now, but my kit came with parts required for Afterburner.
-PIF parts printed by wsebastian
-
-## Process
-
-I currently have a working printer. I still have the following to do to get it ready for serial.
+* [PIF parts printed by wsebastian](https://pif.voron.dev/)
 
 ## Issues
 
@@ -24,8 +20,12 @@ I currently have a working printer. I still have the following to do to get it r
     * Purchased [Magnetic Flex Plate Double-Sided and Single-Sided with 3M Magnetic Backing (Energetic & West3D Collab)](https://west3d.com/products/double-sided-texture-smooth-flex-plate-with-3m-magnetic-backing-energetic-west3d-collab)
     * It said 3M on the back. Must have been more like 1.5M.
 2. LEDs in Stealthburner Kit
-    * My research says they are RGB but the colors are all off.
+    * My research says they are RGB but the colors are not correct. I have tried the other options in the config file. Still wrong colors.
     * I'm leaving it as it is for now. I don't really care about the colors.
+    
+## Process
+
+I currently have a working printer. I still have the following to do to get it ready for serial.
 
 1. Cosmetic Parts
     * Wire Covers (stock STL) PRINTED NEED TO INSTALL
