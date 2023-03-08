@@ -1,0 +1,6 @@
+saved_variables.cfg
+adxl_results/belts/*.csv
+adxl_results/vibrations/*.tar.gz
+*.bkp
+autocommit.sh
+https://github.com/matthilt/VoronTridentBlue/blob/master/.moonraker.conf.bkp
