@@ -1,3 +1,5 @@
+# TRIPOD
+
 ## This is a Build Log for my Voron Trident 300 mm DIY 3D Printer called "Tripod":
 
 My Voron Trident 3D Printer has a name "TRIPOD".
@@ -28,13 +30,14 @@ Accent Color: #dPrintLive Blue
 I currently have a working printer. I still have the following to do to get it ready for serial.
 
 1. Cosmetic Parts
-    * Wire Covers (stock STL) PRINTED NEED TO INSTALL
-    * Acrylic Panel Latches PRINTED NEED TO INSTALL
-      * Using [these](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020) to hold the panels on. 3.5mm for the clear and 4.0mm for the back panel.
+    * ~~Wire Covers (stock STL) PRINTED NEED TO INSTALL~~
+    * ~~Acrylic Panel Latches PRINTED NEED TO INSTALL~~
+      * ~~Using [these](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020) to hold the panels on. 3.5mm for the clear and 4.0mm for the back panel.~~
     * Exhaust Cover
-      * Don't want to have the normal filter on the back. At some point I'll print a Nevermore Filter. So the goal is to seal up the back for now.
-      * Using [this](https://github.com/MotorDynamicsLab/LDOVoronTrident/tree/master/STLs/Angled%20Exhaust%20Cover) cover to fully block the back and give angle for the PTFE tube.
-      * Using [this](https://github.com/Diyshift/3D-Printer/tree/main/Trident%20Noodle) noodle to adjust the bend of the PTFE tube to not rub against the upper acrylic panel.
+      * ~~Don't want to have the normal filter on the back. At some point I'll print a Nevermore Filter. So the goal is to seal up the back for now.~~
+      * ~~Using [this](https://github.com/MotorDynamicsLab/LDOVoronTrident/tree/master/STLs/Angled%20Exhaust%20Cover) cover to fully block the back and give angle for the PTFE tube.~~
+      * ~~Using [this](https://github.com/Diyshift/3D-Printer/tree/main/Trident%20Noodle) noodle to adjust the bend of the PTFE tube to not rub against the upper acrylic panel.~~
+      * I may need [this](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Galvanic/Bowden_Tube_Guide) to keep the PTFE tube clear. We'll see.
     * Skirts
       * Stock STLs. No mods.
     * Screen
