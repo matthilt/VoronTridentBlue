@@ -1,11 +1,9 @@
-# TRIPOD
+# BLUE
 
-## This is a Build Log for my Voron Trident 300 mm DIY 3D Printer called "Tripod":
-
-My Voron Trident 3D Printer has a name "TRIPOD".
+## This is a Build Log for my Voron Trident 300 mm DIY 3D Printer called "Blue":
 
 Primary Color: 3dPrintLife Black
-Accent Color: #dPrintLive Blue
+Accent Color: 3dPrintLive Blue
 
 ## Kit
 
