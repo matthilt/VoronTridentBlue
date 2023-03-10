@@ -1,6 +1,6 @@
 # BLUE
 
-## This is a Build Log for my Voron Trident 300 mm DIY 3D Printer called "Blue":
+## This is a Build Log for my Voron Trident 300 mm DIY 3D Printer called "Blue"
 
 ## Colors
 * Primary Color: 3dPrintLife Black
