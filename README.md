@@ -38,19 +38,25 @@ I currently have a working printer. I still have the following to do to get it r
       * ~~Using [this](https://github.com/Diyshift/3D-Printer/tree/main/Trident%20Noodle) noodle to adjust the bend of the PTFE tube to not rub against the upper acrylic panel.~~
       * I may need [this](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Galvanic/Bowden_Tube_Guide) to keep the PTFE tube clear. We'll see.
     * Skirts
-      * Stock STLs. No mods. PRINTING NEED TO INSTALL
+      * Stock STLs. No mods. PRINTED NEED TO INSTALL
     * Screen
       * Stock STLs. No mods. PRINTED NEED TO INSTALL
     * Bottom Panel
       * Stock STLs. No mods. PRINTED NEED TO INSTALL
 
 2. Mods I want to do
-    * [LDO Motors Input Shaper Kit (ADXL)](https://kb-3d.com/store/ldo/655-ldo-motors-input-shaper-kit-1661370490021.html) HAVE IT NEED TO INSTALL/CONFIGURE
+    * [LDO Motors Input Shaper Kit (ADXL)](https://kb-3d.com/store/ldo/655-ldo-motors-input-shaper-kit-1661370490021.html)
+      *HAVE IT NEED TO INSTALL/CONFIGURE
     * [Nevermore Micro V5 Duo](https://github.com/nevermore3d/Nevermore_Micro)
     * [Decontaminator](https://github.com/LoganFraser/VoronMods/tree/main/DecontaminatorTrident/STLs)
+      *PRINTED NEED TO GET MAGNETS AND INSTALL
     * [20x20mm Profile Covers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chri.kai.in/20x20mm_Profile_Covers)
     * [Chamber Thermistor](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/samwiseg0/extrusion_thermistor_mount)
     * [Eddie's LED Bar Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/eddie/LED_Bar_Clip)
     * [Bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/CannedBass/Trident_Bed_Fans) w/ [Ellis's Macros](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans)
     * ~~[Top corner sealing plug for Voron Trident](https://www.printables.com/model/375617-top-corner-sealing-plug-for-voron-tridentv24)~~
       * Installed (with a hammer)
+3. Macros to check out
+    * A Better Print_Start Macro
+    * [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
+      * Adaptive Mesh and Purge
