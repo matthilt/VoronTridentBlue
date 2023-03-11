@@ -23,6 +23,8 @@
 2. LEDs in Stealthburner Kit
     * My research says they are RGB but the colors are not correct. I have tried the other options in the config file. Still wrong colors.
     * I'm leaving it as it is for now. I don't really care about the colors.
+    * Well I broke the LEDs by plugging them in backwards to "test." Lesson learned. Good news, another set is on the way.
+3. Seems small but the hammerhead nuts that came with the kit did not want to fit in the extrusion. Most of them time I just used TNuts instead.
     
 ## Process
 
@@ -37,12 +39,12 @@ I currently have a working printer. I still have the following to do to get it r
       * ~~Using [this](https://github.com/MotorDynamicsLab/LDOVoronTrident/tree/master/STLs/Angled%20Exhaust%20Cover) cover to fully block the back and give angle for the PTFE tube.~~
       * ~~Using [this](https://github.com/Diyshift/3D-Printer/tree/main/Trident%20Noodle) noodle to adjust the bend of the PTFE tube to not rub against the upper acrylic panel.~~
       * I may need [this](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Galvanic/Bowden_Tube_Guide) to keep the PTFE tube clear. We'll see.
-    * Skirts
-      * Stock STLs. No mods. PRINTED NEED TO INSTALL
-    * Screen
-      * Stock STLs. No mods. PRINTED NEED TO INSTALL
-    * Bottom Panel
-      * Stock STLs. No mods. PRINTED NEED TO INSTALL
+    * ~~Skirts~~
+      * Stock STLs. No mods.
+    * ~~Screen~~
+      * Stock STLs. No mods.
+    * ~~Bottom Panel~~
+      * Stock STLs. No mods. 
 
 2. Mods I want to do
     * [LDO Motors Input Shaper Kit (ADXL)](https://kb-3d.com/store/ldo/655-ldo-motors-input-shaper-kit-1661370490021.html)
