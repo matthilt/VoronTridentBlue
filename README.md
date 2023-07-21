@@ -24,6 +24,7 @@
     * My research says they are RGB but the colors are not correct. I have tried the other options in the config file. Still wrong colors.
     * I'm leaving it as it is for now. I don't really care about the colors.
     * Well I broke the LEDs by plugging them in backwards to "test." Lesson learned. Good news, another set is on the way.
+    * Installed new LEDs from eBay. All is good.
 3. Seems small but the hammerhead nuts that came with the kit did not want to fit in the extrusion. Most of them time I just used TNuts instead.
     
 ## Mods I've done
