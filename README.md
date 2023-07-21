@@ -28,7 +28,7 @@
     
 ## Process
 
-#Mods I've done
+Mods I've done
     * [LDO Motors Input Shaper Kit (ADXL)](https://kb-3d.com/store/ldo/655-ldo-motors-input-shaper-kit-1661370490021.html)
     * [Nevermore Micro V5 Duo](https://github.com/nevermore3d/Nevermore_Micro)
     * [Decontaminator](https://github.com/LoganFraser/VoronMods/tree/main/DecontaminatorTrident/STLs)
@@ -40,7 +40,8 @@
       * Ehhh, seemed like too much air movement. Prints suffered
     * [Top corner sealing plug for Voron Trident](https://www.printables.com/model/375617-top-corner-sealing-plug-for-voron-tridentv24)
       * Installed (with a hammer)
-#Macros to check out
+
+Macros to check out
     * A Better Print_Start Macro
     * [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
       * Adaptive Mesh and Purge
