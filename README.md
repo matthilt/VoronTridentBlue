@@ -49,3 +49,4 @@
   * Move pressure_advance_smooth_time to PRINT_START
 * Check pwm_cycle_time in heated_bed.cfg
   *Need to PID Tune
+* Finish re-doing config files a la [Mr. Zimmerman](https://github.com/EricZimmerman/Voron24)
