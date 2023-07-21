@@ -28,27 +28,8 @@
     
 ## Process
 
-I currently have a working printer. I still have the following to do to get it ready for serial.
-
-1. Cosmetic Parts
-    * ~~Wire Covers (stock STL) PRINTED NEED TO INSTALL~~
-    * ~~Acrylic Panel Latches PRINTED NEED TO INSTALL~~
-      * ~~Using [these](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020) to hold the panels on. 3.5mm for the clear and 4.0mm for the back panel.~~
-    * Exhaust Cover
-      * ~~Don't want to have the normal filter on the back. At some point I'll print a Nevermore Filter. So the goal is to seal up the back for now.~~
-      * ~~Using [this](https://github.com/MotorDynamicsLab/LDOVoronTrident/tree/master/STLs/Angled%20Exhaust%20Cover) cover to fully block the back and give angle for the PTFE tube.~~
-      * ~~Using [this](https://github.com/Diyshift/3D-Printer/tree/main/Trident%20Noodle) noodle to adjust the bend of the PTFE tube to not rub against the upper acrylic panel.~~
-      * I may need [this](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Galvanic/Bowden_Tube_Guide) to keep the PTFE tube clear. We'll see.
-    * ~~Skirts~~
-      * Stock STLs. No mods.
-    * ~~Screen~~
-      * Stock STLs. No mods.
-    * ~~Bottom Panel~~
-      * Stock STLs. No mods. 
-
-2. Mods I want to do
+#Mods I've done
     * [LDO Motors Input Shaper Kit (ADXL)](https://kb-3d.com/store/ldo/655-ldo-motors-input-shaper-kit-1661370490021.html)
-      *HAVE IT NEED TO INSTALL/CONFIGURE
     * [Nevermore Micro V5 Duo](https://github.com/nevermore3d/Nevermore_Micro)
     * [Decontaminator](https://github.com/LoganFraser/VoronMods/tree/main/DecontaminatorTrident/STLs)
       *PRINTED NEED TO GET MAGNETS AND INSTALL
@@ -56,9 +37,10 @@ I currently have a working printer. I still have the following to do to get it r
     * [Chamber Thermistor](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/samwiseg0/extrusion_thermistor_mount)
     * [Eddie's LED Bar Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/eddie/LED_Bar_Clip)
     * [Bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/CannedBass/Trident_Bed_Fans) w/ [Ellis's Macros](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans)
-    * ~~[Top corner sealing plug for Voron Trident](https://www.printables.com/model/375617-top-corner-sealing-plug-for-voron-tridentv24)~~
+      * Ehhh, seemed like too much air movement. Prints suffered
+    * [Top corner sealing plug for Voron Trident](https://www.printables.com/model/375617-top-corner-sealing-plug-for-voron-tridentv24)
       * Installed (with a hammer)
-3. Macros to check out
+#Macros to check out
     * A Better Print_Start Macro
     * [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
       * Adaptive Mesh and Purge
