@@ -26,9 +26,7 @@
     * Well I broke the LEDs by plugging them in backwards to "test." Lesson learned. Good news, another set is on the way.
 3. Seems small but the hammerhead nuts that came with the kit did not want to fit in the extrusion. Most of them time I just used TNuts instead.
     
-## Process
-
-Mods I've done
+## Mods I've done
     * [LDO Motors Input Shaper Kit (ADXL)](https://kb-3d.com/store/ldo/655-ldo-motors-input-shaper-kit-1661370490021.html)
     * [Nevermore Micro V5 Duo](https://github.com/nevermore3d/Nevermore_Micro)
     * [Decontaminator](https://github.com/LoganFraser/VoronMods/tree/main/DecontaminatorTrident/STLs)
@@ -41,7 +39,11 @@ Mods I've done
     * [Top corner sealing plug for Voron Trident](https://www.printables.com/model/375617-top-corner-sealing-plug-for-voron-tridentv24)
       * Installed (with a hammer)
 
-Macros to check out
+## Macros to check out
     * A Better Print_Start Macro
     * [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
       * Adaptive Mesh and Purge
+
+## To Do
+    * Move pressure_advance from extruder.cfg to PRINT_START
+    * Move pressure_advance_smooth_time to PRINT_START
