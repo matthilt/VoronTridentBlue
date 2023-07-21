@@ -47,3 +47,5 @@
 * Separate config into separate files
   * Move pressure_advance from extruder.cfg to PRINT_START
   * Move pressure_advance_smooth_time to PRINT_START
+* Check pwm_cycle_time in heated_bed.cfg
+  *Need to PID Tune
