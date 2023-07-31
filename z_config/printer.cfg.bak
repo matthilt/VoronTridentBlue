@@ -36,4 +36,6 @@ filename: ~/printer_data/config/save_variables.cfg
 
 [idle_timeout]
 timeout: 1800
+gcode:
+  LIGHT_OFF
   
